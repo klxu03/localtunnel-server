@@ -1,4 +1,3 @@
-// random comment change on server.js
 import log from "book";
 import Koa from "koa";
 import tldjs from "tldjs";
